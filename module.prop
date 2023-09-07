@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=Charles-SSL-Write
+name=Charles证书系统
+version=v1
+versionCode=1
+author=Pinkdoge
+description=Charles证书系统
